@@ -1,6 +1,6 @@
 {
-    "name": "yajra/laravel-datatables-editor",
-    "description": "Laravel DataTables Editor plugin for Laravel 5.5+.",
+    "name": "groupesti/laravel-datatables-editor",
+    "description": "Laravel DataTables Editor Integration for Laravel 13. Fork of yajra/laravel-datatables-editor.",
     "keywords": [
         "laravel",
         "dataTables",
